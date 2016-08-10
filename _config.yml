@@ -1,0 +1,14 @@
+layout_spectrum: 0.5429549859836698
+typography_spectrum: 0.6898765005171299
+color:
+  brandStrength: 0.41734955948777497
+  lightness: 0.886602939106524
+  saturation: 0.45295044174417853
+  rhythmicContrast: 0.7862765833269805
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: better reflection
